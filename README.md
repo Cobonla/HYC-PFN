@@ -42,7 +42,7 @@ This tool predicts three key biochar properties from biomass input data using pr
 |--------|-------------|
 | **HHV** | Higher Heating Value (MJ/kg) |
 | **Yield** | Biochar Yield (%) |
-| **CER** | Char Recovery Ration (%) |
+| **CER** | Char Recovery Ratio (%) |
 
 ---
 
@@ -68,8 +68,6 @@ cd HYC-PFN
 ### Step 3 — Download and unzip the models
 
 Download `models.zip` from [Zenodo](https://doi.org/10.5281/zenodo.19547896) and place it inside the `HYC-PFN/` folder. After unzipping, you should see a `models/` folder containing three subfolders: `HHV/`, `Yield/`, and `CER/`.
-
-Right-click `models.zip` → **Extract All**.
 
 ```shell
 unzip models.zip
