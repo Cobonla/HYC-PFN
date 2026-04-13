@@ -42,7 +42,7 @@ This tool predicts three key biochar properties from biomass input data using pr
 |--------|-------------|
 | **HHV** | Higher Heating Value (MJ/kg) |
 | **Yield** | Biochar Yield (%) |
-| **CER** | Carbon Enhancement Ratio |
+| **CER** | Char Recovery Ration (%) |
 
 ---
 
