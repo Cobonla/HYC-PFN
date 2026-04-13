@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <!-- <img src="https://github.com/user-attachments/assets/7c4671c9-2fb2-4df8-b6cc-36f3ec9fc209" width="1280"/> -->
+  <!-- <img width="4350" height="3234" alt="Image" src="https://github.com/user-attachments/assets/538dc520-02b2-4f45-9e39-7a6611e8f5b3" /> -->
 </p>
 
 ---
@@ -34,7 +34,7 @@ Update soon!
 
 ## Introduction
 
-This repository provides the standalone program for HYC-PFN. Please download `models.zip` from [Zenodo](https://doi.org/10.5281/zenodo.19547896) and unzip it to get the models for target prediction.
+This repository provides the standalone program for HYC-PFN. Please download `models.zip` from [Zenodo](https://doi.org/10.5281/zenodo.19548145) and unzip it to get the models for target prediction.
 
 This tool predicts three key biochar properties from biomass input data using pre-trained TabPFN ensemble models:
 
@@ -113,10 +113,10 @@ Your input must be a CSV file with **one row per sample** and the following colu
 | `O (wt%)` | Oxygen content |
 | `N (wt%)` | Nitrogen content |
 | `S (wt%)` | Sulfur content |
-| `H/C (wt%)` | H/C atomic ratio |
+| `H/C` | H/C atomic ratio |
 | `FC (wt%)` | Fixed carbon |
 | `Ash (wt%)` | Ash content |
-| `VM/FC (wt%)` | Volatile matter / Fixed carbon ratio |
+| `VM/FC` | Volatile matter / Fixed carbon ratio |
 | `CL (wt%)` | Cellulose content |
 | `HC (wt%)` | Hemicellulose content |
 | `LG (wt%)` | Lignin content |
