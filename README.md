@@ -8,7 +8,7 @@
   <a href=""><img src="https://img.shields.io/github/stars/Cobonla/HYC-PFN?" alt="stars"></a>
   <a href=""><img src="https://img.shields.io/github/forks/Cobonla/HYC-PFN?" alt="forks"></a>
   <a href="https://github.com/Cobonla/HYC-PFN/blob/main/LICENSE">
-    
+    <img src="https://img.shields.io/github/license/Cobonla/HYC-PFN" alt="license">
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7c4671c9-2fb2-4df8-b6cc-36f3ec9fc209" width="1280"/>
+  <img width="4350" height="3234" alt="Image" src="https://github.com/user-attachments/assets/538dc520-02b2-4f45-9e39-7a6611e8f5b3" />
 </p>
 
 ---
@@ -47,8 +47,6 @@ This tool predicts three key biochar properties from biomass input data using pr
 ---
 
 ## Installation
-
-> **No coding experience needed.** Follow each step in order.
 
 ### Step 1 — Install Conda (if you don't have it)
 
