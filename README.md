@@ -8,7 +8,7 @@
   <a href=""><img src="https://img.shields.io/github/stars/Cobonla/HYC-PFN?" alt="stars"></a>
   <a href=""><img src="https://img.shields.io/github/forks/Cobonla/HYC-PFN?" alt="forks"></a>
   <a href="https://github.com/Cobonla/HYC-PFN/blob/main/LICENSE">
-    <!-- <img width="4350" height="3234" alt="Image" src="https://github.com/user-attachments/assets/538dc520-02b2-4f45-9e39-7a6611e8f5b3" /> -->
+    
   </a>
 </p>
 
