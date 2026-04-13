@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <!-- <img width="4350" height="3234" alt="Image" src="https://github.com/user-attachments/assets/538dc520-02b2-4f45-9e39-7a6611e8f5b3" /> -->
+  <!-- <img src="https://github.com/user-attachments/assets/7c4671c9-2fb2-4df8-b6cc-36f3ec9fc209" width="1280"/> -->
 </p>
 
 ---
@@ -34,7 +34,7 @@ Update soon!
 
 ## Introduction
 
-This repository provides the standalone program for HYC-PFN. Please unzip the `models.zip` to get the models for target prediction.
+This repository provides the standalone program for HYC-PFN. Please download `models.zip` from [Zenodo](https://doi.org/10.5281/zenodo.19547896) and unzip it to get the models for target prediction.
 
 This tool predicts three key biochar properties from biomass input data using pre-trained TabPFN ensemble models:
 
@@ -65,11 +65,11 @@ cd HYC-PFN
 
 > If you don't have `git`, download the ZIP from the green **Code** button on this page, unzip it, and open a terminal inside the unzipped folder.
 
-### Step 3 — Unzip the models
+### Step 3 — Download and unzip the models
 
-Unzip `models.zip` inside the `HYC-PFN/` folder. After unzipping, you should see a `models/` folder containing three subfolders: `HHV/`, `Yield/`, and `CER/`.
+Download `models.zip` from [Zenodo](https://doi.org/10.5281/zenodo.19547896) and place it inside the `HYC-PFN/` folder. After unzipping, you should see a `models/` folder containing three subfolders: `HHV/`, `Yield/`, and `CER/`.
 
-On Windows, right-click `models.zip` → **Extract All**. On Mac/Linux:
+Right-click `models.zip` → **Extract All**.
 
 ```shell
 unzip models.zip
