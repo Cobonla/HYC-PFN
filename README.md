@@ -36,7 +36,7 @@ Update soon!
 
 This repository provides the standalone program for HYC-PFN. Please download `models.zip` from [Zenodo](https://doi.org/10.5281/zenodo.19548145) and unzip it to get the models for target prediction.
 
-This tool predicts three key biochar properties from biomass input data using pre-trained TabPFN ensemble models:
+This tool predicts three key biochar properties from biomass input data using pre-trained TabPFN model:
 
 | Target | Description |
 |--------|-------------|
@@ -87,6 +87,9 @@ conda activate HYC-PFN
 
 ```shell
 python -m pip install numpy==1.22.4 pandas==2.0.3 --no-cache-dir
+```
+```shell
+python -m pip install scikit-learn==1.6.1 --no-cache-dir
 ```
 ```shell
 python -m pip install tabpfn==6.2.0 --no-cache-dir
