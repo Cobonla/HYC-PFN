@@ -36,7 +36,7 @@ Update soon!
 
 This repository provides the standalone program for HYC-PFN. Please download `models.zip` from [Zenodo](https://doi.org/10.5281/zenodo.19548145) and unzip it to get the models for target prediction.
 
-This tool predicts three key biochar properties from biomass input data using pre-trained TabPFN model:
+This tool predicts three key biochar properties from biomass input data using pre-trained TabPFN models:
 
 | Target | Description |
 |--------|-------------|
